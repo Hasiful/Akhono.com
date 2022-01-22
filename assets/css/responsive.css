@@ -8,6 +8,24 @@
     .all_category_wrapper{
         grid-template-columns: repeat(3, 1fr);
     }
+    .top_header_ecommerce_menu {
+        display: block;
+    }
+    .top_header_right_icon {
+        display: none !important;
+    }
+    .top_category_icon {
+        display: block;
+    }
+    .footer_content{
+        display: block;
+    }
+    .fotter_section {
+        padding-top: 50px;
+    }
+    .footer_menu{
+        display: none;
+    }
 }
 
 
